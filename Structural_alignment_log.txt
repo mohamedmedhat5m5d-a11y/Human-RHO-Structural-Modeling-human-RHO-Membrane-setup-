@@ -1,0 +1,12 @@
+PyMOL>align AF-P08100-F1-model_v6, 1f88_default_dppc_bilayer.mpmd
+ Match: read scoring matrix.
+ Match: assigning 348 x 988 pairwise scores.
+ MatchAlign: aligning residues (348 vs 988)...
+ MatchAlign: score 1675.000
+ ExecutiveAlign: 2602 atoms aligned.
+ ExecutiveRMS: 135 atoms rejected during cycle 1 (RMSD=3.46).
+ ExecutiveRMS: 156 atoms rejected during cycle 2 (RMSD=1.44).
+ ExecutiveRMS: 198 atoms rejected during cycle 3 (RMSD=0.94).
+ ExecutiveRMS: 134 atoms rejected during cycle 4 (RMSD=0.66).
+ ExecutiveRMS: 85 atoms rejected during cycle 5 (RMSD=0.54).
+ Executive: RMSD =    0.492 (1894 to 1894 atoms)
